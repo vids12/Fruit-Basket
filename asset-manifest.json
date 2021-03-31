@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vids12.github.io/csb-s5tll/static/css/main.7e2309b8.chunk.css",
+    "main.js": "https://vids12.github.io/csb-s5tll/static/js/main.222c7fb8.chunk.js",
+    "main.js.map": "https://vids12.github.io/csb-s5tll/static/js/main.222c7fb8.chunk.js.map",
+    "runtime-main.js": "https://vids12.github.io/csb-s5tll/static/js/runtime-main.05b0c977.js",
+    "runtime-main.js.map": "https://vids12.github.io/csb-s5tll/static/js/runtime-main.05b0c977.js.map",
+    "static/js/2.ebbf83df.chunk.js": "https://vids12.github.io/csb-s5tll/static/js/2.ebbf83df.chunk.js",
+    "static/js/2.ebbf83df.chunk.js.map": "https://vids12.github.io/csb-s5tll/static/js/2.ebbf83df.chunk.js.map",
+    "index.html": "https://vids12.github.io/csb-s5tll/index.html",
+    "static/css/main.7e2309b8.chunk.css.map": "https://vids12.github.io/csb-s5tll/static/css/main.7e2309b8.chunk.css.map",
+    "static/js/2.ebbf83df.chunk.js.LICENSE.txt": "https://vids12.github.io/csb-s5tll/static/js/2.ebbf83df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05b0c977.js",
+    "static/js/2.ebbf83df.chunk.js",
+    "static/css/main.7e2309b8.chunk.css",
+    "static/js/main.222c7fb8.chunk.js"
+  ]
+}
